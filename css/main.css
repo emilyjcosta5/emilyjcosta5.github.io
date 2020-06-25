@@ -48,6 +48,7 @@ h1 {
 
 p {
     font-size: 1.5em;
+    font-family:"Courier New", Courier, monospace;
     line-height: 1.4em;
     color: #333;
     color: #ffffff;
@@ -60,6 +61,7 @@ img {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    font-family:"Courier New", Courier, monospace;
     color: #3465A4;
 }
 
