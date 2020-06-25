@@ -20,11 +20,12 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #4E9A06
 }
 h1 {
     font-size: 3em;
     font-family:"Courier New", Courier, monospace;
-    color: #ffffff;
+    color: #3465A4;
 }
 p {
     font-size: 1.5em;
@@ -40,7 +41,7 @@ img {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    color: #ffffff;
+    color: #3465A4;
 }
 
 ul.posts { 
