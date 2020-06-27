@@ -26,6 +26,7 @@ h1 {
     font-size: 3em;
     font-family:"Courier New", Courier, monospace;
     color: #ffffff;
+    text-align: center;
 }
 /*
 h1 {
@@ -50,6 +51,8 @@ p {
     line-height: 1.4em;
     color: #333;
     color: #ffffff;
+    width: 50%;
+    text-align: center;
 }
 img {
   border-radius: 8px;
@@ -64,6 +67,7 @@ footer {
     font-size: .8em;
     font-family:"Courier New", Courier, monospace;
     color: #3465A4;
+    text-align: center;
 }
 
 ul.posts { 
