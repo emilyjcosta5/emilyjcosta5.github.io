@@ -11,7 +11,7 @@ layout: feed
 	<id>http://emilyjcosta5.github.io/blog</id>
 	<author>
 		<name>Emily Costa</name>
-		<email>costa.em@husky.neu.edu</email>
+		<email>emily.costa.j@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
