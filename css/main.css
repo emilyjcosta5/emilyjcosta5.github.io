@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 75%;
     background-color: #101010;
     color: #ffffff;
 }
@@ -51,10 +51,10 @@ p {
     line-height: 1.4em;
     color: #333;
     color: #ffffff;
-    width: 50%;
-    text-align: left;
-    margin-left: 25%;
-    margin-right: 25%;
+    width: 100%;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 img {
   border-radius: 8px;
