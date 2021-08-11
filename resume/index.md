@@ -5,9 +5,9 @@ title: My Resume
 
 <h1>Emily J. Costa</h1>
 
-<p>
+<div align="center"><p>
 <a href="./resume.pdf" download="Costa-Emily_resume">Download my resume</a> or check it out below.
-</p>
+</p></div>
 
 <div align="center">emily.costa.j@gmail.com | +1 (941) 893.7333 | github.com/emilyjcosta5</div>
 
@@ -77,6 +77,6 @@ title: My Resume
 
 ### **ADDITIONAL SKILLS &amp; INTERESTS**
 
-**Technical:** BASH, C/C++, Deepspeed, Docker, Git, HuggingFace, Java, Julia, Linux, Pandas, Python, Pytorch, R, Scikit-Learn
+#### **Technical:** BASH, C/C++, Deepspeed, Docker, Git, HuggingFace, Java, Julia, Linux, Pandas, Python, Pytorch, R, Scikit-Learn
 
-**Interests:** Cooking, Levantine Arabic, Mathematical Reasoning, Philosophy, Piano, Sailing, Theology
+#### **Interests:** Cooking, Levantine Arabic, Mathematical Reasoning, Philosophy, Piano, Sailing, Theology
