@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 60%;
     background-color: #101010;
     color: #ffffff;
 }
@@ -20,12 +20,12 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: #4E9A06
+    color: #649568
 }
 h1 {
     font-size: 3em;
     font-family:"Courier New", Courier, monospace;
-    color: #ffffff;
+    color: #149414;
     text-align: center;
 }
 /*
@@ -52,12 +52,14 @@ p {
     color: #333;
     color: #ffffff;
     width: 50%;
-    text-align: center;
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 img {
   border-radius: 8px;
   max-width: 800px;
-  width: auto;
+  width: 50%;
   display: block;
   margin: auto;
 }
@@ -65,7 +67,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     font-family:"Courier New", Courier, monospace;
-    color: #3465A4;
+    color: #9ccc9c;
 }
 
 ul.posts { 
