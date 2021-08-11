@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Emily's Resume
+title: My Resume
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>Emily J. Costa</h1>
 
-<a href="./resume.pdf" download="Costa-Emily_resume">Download my resume.</a>
+<p>
+<a href="./resume.pdf" download="Costa-Emily_resume">Download my resume</a> or check it out below.
+</p>
 
-# Emily J. Costa
+<div align="center">emily.costa.j@gmail.com | +1 (941) 893.7333 | github.com/emilyjcosta5</div>
 
-emily.costa.j@gmail.com | +1 (941) 893.7333 | github.com/emilyjcosta5
+### **WORK EXPERIENCE**
 
-**WORK EXPERIENCE**
+#### **Oak Ridge National Laboratory, Oak Ridge, TN**
 
-**Oak Ridge National Laboratory**** Oak Ridge, TN**
-
-_GEM Fellow Intern – Mentor: Dr. Georgia Tourassi__June 2021 – Present_
+##### _GEM Fellow Intern – Mentor: Dr. Georgia Tourassi, June 2021 – Present_
 
 - Training scalable NLP deep learning models to perform computational phenotyping on clinical text in order to automate cancer report classification for an Exascale Computing Project, CANDLE, in collaboration with the National Cancer Institute
 - Profile applications as well as optimize data motion in order to enable highly parallel code deployment and improve performance on state-of-the-art complex HPC node architectures specifically within the Summit and Frontier supercomputers
