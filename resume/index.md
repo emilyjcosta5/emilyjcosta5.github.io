@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Resume
+title: Emily's Resume
 ---
 
 <h1>Emily J. Costa</h1>
@@ -8,8 +8,6 @@ title: My Resume
 <div align="center"><p>
 <a href="./resume.pdf" download="Costa-Emily_resume">Download my resume</a> or check it out below.
 </p></div>
-
-<div align="center">emily.costa.j@gmail.com | +1 (941) 893.7333 | github.com/emilyjcosta5</div>
 
 ### **WORK EXPERIENCE**
 
@@ -64,7 +62,7 @@ title: My Resume
 
 ### **EDUCATION**
 
-#### *Northeastern University,		 Boston, MA**
+#### **Northeastern University,		 Boston, MA**
 
 #### _Master of Science Computer Engineering, Cumulative GPA: 3.9/4.0, August 2020 – Present_
 
