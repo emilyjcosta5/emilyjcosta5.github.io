@@ -37,7 +37,7 @@ h2 {
 h3 {
     font-size: 1.5em;
     font-family:"Courier New", Courier, monospace;
-    color: #f984e5;
+    color: #ff8c40;
     text-align: left;
 }
 h4 {
@@ -46,10 +46,27 @@ h4 {
     color: #0099ff;
     text-align: left;
 }
+h5 {
+    font-size: 1em;
+    font-family:"Courier New", Courier, monospace;
+    color: #f984e5;
+    text-align: left;
+}
+h6 {
+    font-size: 1em;
+    font-family:"Courier New", Courier, monospace;
+    color: #ff0000;
+    text-align: left;
+}
 /*
 h1 {
   animation: animated-text 4s steps(29,end) 1s 1 normal both,
-             animated-cursor 600ms steps(29,end) infinite;
+  h4 {
+    font-size: 1.25em;
+    font-family:"Courier New", Courier, monospace;
+    color: #0099ff;
+    text-align: left;
+}           animated-cursor 600ms steps(29,end) infinite;
 }
 
 @keyframes animated-text{
