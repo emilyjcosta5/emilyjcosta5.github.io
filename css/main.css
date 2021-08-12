@@ -121,3 +121,14 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+h4.posts {
+    font-size: 1em;
+    font-family:"Courier New", Courier, monospace;
+    line-height: 1.4em;
+    color: #333;
+    color: #ffffff;
+    width: 90%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
