@@ -5,9 +5,9 @@ title: Emily's Resume
 
 <h1>Emily J. Costa</h1>
 
-<div align="center"><p>
+<div align="center"><h2>
 <a href="./resume.pdf" download="Costa-Emily_resume">Download my resume</a> or check it out below.
-</p></div>
+</h2></div>
 
 <h3 id="-work-experience-"><strong>WORK EXPERIENCE</strong></h3>
 <h4 id="-oak-ridge-national-laboratory-oak-ridge-tn-"><strong>Oak Ridge National Laboratory,        Oak Ridge, TN</strong></h4>
