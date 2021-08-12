@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 60%;
-    background-color: #2E3436;
+    background-color: #282B2C;
     color: #D3D7CF;
 }
 nav ul, footer ul {
@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #34E2E2;
+    color: #C4A000;
 }
 a:hover {
     text-decoration: underline;
@@ -37,13 +37,13 @@ h2 {
 h3 {
     font-size: 1.5em;
     font-family:"Courier New", Courier, monospace;
-    color: #8AE234;
+    color: #34E2E2;
     text-align: left;
 }
 h4 {
     font-size: 1.25em;
     font-family:"Courier New", Courier, monospace;
-    color: #C4A000;
+    color: #8AE234;
     text-align: left;
 }
 h5 {
