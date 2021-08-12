@@ -1,8 +1,8 @@
 body {
     margin: 60px auto;
     width: 60%;
-    background-color: #101010;
-    color: #ffffff;
+    background-color: #2E3436;
+    color: #D3D7CF;
 }
 nav ul, footer ul {
     font-family:"Courier New", Courier, monospace;
@@ -16,46 +16,46 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #649568;
+    color: #8AE234;
 }
 a:hover {
     text-decoration: underline;
-    color: #9ccc9c;
+    color: #FCE94F;
 }
 h1 {
     font-size: 3em;
     font-family:"Courier New", Courier, monospace;
-    color: #149414;
+    color: #4E9A06;
     text-align: center;
 }
 h2 {
     font-size: 2.2em;
     font-family:"Courier New", Courier, monospace;
-    color: #ffffff;
+    color: #EEEEEC;
     text-align: center;
 }
 h3 {
     font-size: 1.5em;
     font-family:"Courier New", Courier, monospace;
-    color: #ff8c40;
+    color: #34E2E2;
     text-align: left;
 }
 h4 {
     font-size: 1.25em;
     font-family:"Courier New", Courier, monospace;
-    color: #0099ff;
+    color: #C4A000;
     text-align: left;
 }
 h5 {
     font-size: 1em;
     font-family:"Courier New", Courier, monospace;
-    color: #f984e5;
+    color: #AD7FA8;
     text-align: left;
 }
 h6 {
     font-size: 1em;
     font-family:"Courier New", Courier, monospace;
-    color: #ff0000;
+    color: #729FCF;
     text-align: left;
 }
 /*
