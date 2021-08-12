@@ -63,6 +63,8 @@ li {
     font-family:"Courier New", Courier, monospace;
     color: #EEEEEC;
     text-align: left;
+    margin-right: 3px;
+    margin-left: 3px
 }
 /*
 h1 {
