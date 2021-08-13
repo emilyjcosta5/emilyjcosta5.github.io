@@ -67,7 +67,8 @@ li {
     color: #EEEEEC;
     text-align: left;
     margin-right: 3px;
-    margin-left: 3px
+    margin-left: 3px;
+    width: 90%;
 }
 /*
 h1 {
@@ -138,9 +139,10 @@ h4.posts {
 }
 h3.resume {
     margin-top: 1.2;
-    margin-bottom: 0.8;
+    margin-bottom: 0;
 }
 h4.resume {
-    margin-top: 0.8;
-    margin-bottom: 0.8;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 90%;
 }
