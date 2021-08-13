@@ -16,16 +16,16 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #8AE234;
+    color: #91DA4A;
 }
 a:hover {
     text-decoration: underline;
-    color: #FCE94F;
+    color: #A8FC56;
 }
 h1 {
     font-size: 2.5em;
     font-family:"Courier New", Courier, monospace;
-    color: #4E9A06;
+    color: #6CD509;
     text-align: center;
 }
 h2 {
@@ -135,4 +135,7 @@ h4.posts {
 }
 .resume {
     line-height: .8;
+}
+h3.resume {
+    margin-top: 1.2;
 }
