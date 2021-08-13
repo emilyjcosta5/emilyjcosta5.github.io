@@ -9,9 +9,9 @@ title: Emily's Resume
 <a href="./resume.pdf" download="Costa-Emily_resume">Download my resume</a> or check it out below.
 </h2></div>
 <div class="resume">
-<h3 id="-work-experience-"><strong>WORK EXPERIENCE</strong></h3>
-<h4 id="-oak-ridge-national-laboratory-oak-ridge-tn-"><strong>Oak Ridge National Laboratory,        Oak Ridge, TN</strong></h4>
-<h4 id="_gem-fellow-intern-mentor-dr-georgia-tourassi-june-2021-present_"><em>GEM Fellow Intern, Mentor: Dr. Georgia Tourassi, June 2021 – Present</em></h4>
+<p><strong>WORK EXPERIENCE</strong></p>
+<p>Oak Ridge National Laboratory,        Oak Ridge, TN</p>
+<p>GEM Fellow Intern, Mentor: Dr. Georgia Tourassi, June 2021 – Present</h4>
 <ul>
 <li>Training scalable NLP deep learning models to perform computational phenotyping on clinical text in order to automate cancer report classification for an Exascale Computing Project, CANDLE, in collaboration with the National Cancer Institute</li>
 <li>Profile applications as well as optimize data motion in order to enable highly parallel code deployment and improve performance on state-of-the-art complex HPC node architectures specifically within the Summit and Frontier supercomputers</li>
