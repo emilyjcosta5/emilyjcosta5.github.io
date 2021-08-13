@@ -133,4 +133,6 @@ h4.posts {
     margin-left: auto;
     margin-right: auto;
 }
-
+.resume {
+    line-height: .8;
+}

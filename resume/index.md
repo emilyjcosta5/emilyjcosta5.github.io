@@ -8,7 +8,7 @@ title: Emily's Resume
 <div align="center"><h2>
 <a href="./resume.pdf" download="Costa-Emily_resume">Download my resume</a> or check it out below.
 </h2></div>
-
+<div class="resume">
 <h3 id="-work-experience-"><strong>WORK EXPERIENCE</strong></h3>
 <h4 id="-oak-ridge-national-laboratory-oak-ridge-tn-"><strong>Oak Ridge National Laboratory,        Oak Ridge, TN</strong></h4>
 <h4 id="_gem-fellow-intern-mentor-dr-georgia-tourassi-june-2021-present_"><em>GEM Fellow Intern, Mentor: Dr. Georgia Tourassi, June 2021 – Present</em></h4>
@@ -63,4 +63,4 @@ title: Emily's Resume
 <h3 id="-additional-skills-amp-interests-"><strong>ADDITIONAL SKILLS &amp; INTERESTS</strong></h3>
 <h4 id="-technical-bash-c-c-deepspeed-docker-git-huggingface-java-julia-linux-pandas-python-pytorch-r-scikit-learn"><strong>Technical:</strong> BASH, C/C++, Deepspeed, Docker, Git, HuggingFace, Java, Julia, Linux, Pandas, Python, Pytorch, R, Scikit-Learn</h4>
 <h4 id="-interests-cooking-levantine-arabic-mathematical-reasoning-philosophy-piano-sailing-theology"><strong>Interests:</strong> Cooking, Levantine Arabic, Mathematical Reasoning, Philosophy, Piano, Sailing, Theology</h4>
-
+</div>
