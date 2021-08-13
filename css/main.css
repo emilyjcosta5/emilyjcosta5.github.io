@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 60%;
     background-color: #282B2C;
-    color: #D3D7CF;
+    color: #282B2C;
 }
 nav ul, footer ul {
     font-family:"Courier New", Courier, monospace;
@@ -29,7 +29,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-size: 2.2em;
+    font-size: 1.5em;
     font-family:"Courier New", Courier, monospace;
     color: #EEEEEC;
     text-align: center;
@@ -92,7 +92,6 @@ p {
     font-size: 1em;
     font-family:"Courier New", Courier, monospace;
     line-height: 1.4em;
-    color: #333;
     color: #ffffff;
     width: 90%;
     text-align: justify;
@@ -125,10 +124,10 @@ h4.posts {
     font-size: 1em;
     font-family:"Courier New", Courier, monospace;
     line-height: 1.4em;
-    color: #333;
     color: #ffffff;
     width: 90%;
-    text-align: justify;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
+
