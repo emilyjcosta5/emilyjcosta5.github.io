@@ -6,6 +6,6 @@ title: Emily's Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <span style="font-size: .8em">{{ post.date | date_to_string }}</span></li>
+	  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <span style="font-size: .6em">{{ post.date | date_to_string }}</span></li>
 	  {% endfor %}
 	</ul>

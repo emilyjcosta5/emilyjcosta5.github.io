@@ -145,4 +145,7 @@ h4.resume {
     margin-top: 0;
     margin-bottom: 0;
     width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
+
