@@ -7,4 +7,3 @@ title: Emily's Resume
 
 <div align="center"><h2>
 <a href="./resume.pdf" download="Costa-Emily_resume">Download my resume</a>.
-</div>
